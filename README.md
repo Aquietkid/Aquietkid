@@ -7,21 +7,16 @@ C++: The powerhouse of performance and my _first love_ in coding!
 
 Java: Writing robust applications and diving deep into the world of OOP and software architecture.
 
-HTML & CSS: Crafting beautiful, responsive web pages that are easy on the eyes.
-
-JavaScript: Making web pages interactive and bringing them to life.
-
-Node & Express: Building efficient and scalable server-side applications.
+HTML, CSS, JavaScript, NodeJS, ExpressJS: Crafting webpages, bringing them to life, and handling the server-side.
 
 MySQL & MS SQL Server: Managing databases and ensuring data integrity.
 ## 🌱 Currently Exploring:
 
-React: Taking my front-end skills to the next level with this awesome library.
+Unity Game Development: Making engaging yet meaningful games in 2D or 3D environments, including C# scripting. 
 
-MongoDB: Diving into the world of NoSQL databases and loving the flexibility.
+Python: Well, we all know what it's for. (everything)
 
-DLLs in C++: How DLLs can improve performance and reusability of code. 
-
+Advanced Web Development: ReactJS, MongoDB, and more. 
 
 ---
 🤔 I’m looking for help with embedded systems programming. If you happen to read this, have some experience, and would like to help me learn embedded software engineering, I would highly appreciate that! 
