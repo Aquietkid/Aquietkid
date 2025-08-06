@@ -9,17 +9,20 @@ Java: Writing robust applications and diving deep into the world of OOP and soft
 
 HTML, CSS, JavaScript, NodeJS, ExpressJS: Crafting webpages, bringing them to life, and handling the server-side.
 
-MySQL & MS SQL Server: Managing databases and ensuring data integrity.
-## 🌱 Currently Exploring:
+Advanced Web Development: ReactJS, MongoDB, and more. 
+
+MySQL, MS SQL Server, MongoDB: Managing databases and ensuring data integrity.
 
 Unity Game Development: Making engaging yet meaningful games in 2D or 3D environments, including C# scripting. 
 
 Python: Well, we all know what it's for. (everything)
 
-Advanced Web Development: ReactJS, MongoDB, and more. 
 
----
-🤔 I’m looking for help with embedded systems programming. If you happen to read this, have some experience, and would like to help me learn embedded software engineering, I would highly appreciate that! 
+## 🌱 Currently Exploring:
+
+AI/ML: Training ML models to detect patterns and make predictions; exploring theoretical AI
+
+Embedded Software Engineering: Programming Arduino boards and interfacing with sensors and LCD displays
 
 <!--
 **Aquietkid/Aquietkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
