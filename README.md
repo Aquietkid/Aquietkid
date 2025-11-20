@@ -19,9 +19,9 @@ Python: Well, we all know what it's for. (everything)
 
 AI/ML: Training ML models to detect patterns and make predictions; exploring theoretical AI
 
-XAI: Explaining AI decisions to help build trust and ensure fair decision-making
-
 ## 🌱 Currently Exploring:
+
+XAI: Explaining AI decisions to help build trust and ensure fair decision-making
 
 Jenkins: Setting up auto-deployment and build generation pipelines for CI/CD
 
