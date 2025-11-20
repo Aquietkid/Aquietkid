@@ -21,6 +21,8 @@ AI/ML: Training ML models to detect patterns and make predictions; exploring the
 
 ## 🌱 Currently Exploring:
 
+Kotlin/Jetpack Compose: Making native Android applications that perform
+
 XAI: Explaining AI decisions to help build trust and ensure fair decision-making
 
 Jenkins: Setting up auto-deployment and build generation pipelines for CI/CD
