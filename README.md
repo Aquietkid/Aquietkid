@@ -17,12 +17,23 @@ Unity Game Development: Making engaging yet meaningful games in 2D or 3D environ
 
 Python: Well, we all know what it's for. (everything)
 
+AI/ML: Training ML models to detect patterns and make predictions; exploring theoretical AI
+
+XAI: Explaining AI decisions to help build trust and ensure fair decision-making
 
 ## 🌱 Currently Exploring:
 
-AI/ML: Training ML models to detect patterns and make predictions; exploring theoretical AI
+Jenkins: Setting up auto-deployment and build generation pipelines for CI/CD
 
-Embedded Software Engineering: Programming Arduino boards and interfacing with sensors and LCD displays
+Linux Shell Scripting: Daily-driving Ubuntu and automating common tasks with custom shell scripts
+
+Embedded Software Engineering: Programming Arduino boards and ESP32 and interfacing with sensors, motors, and LCD displays
+
+---
+
+## 🚀 Beyond Coding:
+
+I love physics and astronomy, psychology, philosophy, books, and caffeine. I also love photography as it helps find beauty in the mundane of daily life. I love putting pen to paper and fingers to keyboard.
 
 <!--
 **Aquietkid/Aquietkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
