@@ -1,5 +1,12 @@
 ## Hey there 👋
-Thanks for stopping here, I'm thrilled to see you! I'm a software engineering student who's forever-ready to learn and create. Let's get to know me: 
+
+Thanks for stopping here, I'm thrilled to see you! I'm a final year software engineering student who's forever-ready to learn and build. Let's get to know me:
+
+## What I Love to Do:
+
+I love making software that benefits individuals like you and I. Something to ease their lives, provide peace of mind, or some fun when you need it.
+
+I also love using code to solve my own problems. From making scripts that automate something I did manually to making a little app to see how rotating an image makes phenakistiscopes work. Not just that, I love making mobile apps that solve problems I have had in my daily life. (I am building an interesting app that solves such a problem, and I hope to release it soon. If you want to join its beta, just leave me an email. Stay tuned for updates.)
 
 ## 👨‍💻 Languages & Technologies I Know:
 
@@ -9,11 +16,11 @@ Java: Writing robust applications and diving deep into the world of OOP and soft
 
 HTML, CSS, JavaScript, NodeJS, ExpressJS: Crafting webpages, bringing them to life, and handling the server-side.
 
-Advanced Web Development: ReactJS, MongoDB, and more. 
+Advanced Web Development: ReactJS, MongoDB, and more.
 
 MySQL, MS SQL Server, MongoDB: Managing databases and ensuring data integrity.
 
-Unity Game Development: Making engaging yet meaningful games in 2D or 3D environments, including C# scripting. 
+Unity Game Development: Making engaging yet meaningful games in 2D or 3D environments, including C# scripting.
 
 Python: Well, we all know what it's for. (everything)
 
